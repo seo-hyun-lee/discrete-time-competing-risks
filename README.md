@@ -49,8 +49,6 @@ Simulation settings (sample size, number of replications, data-generating proces
 
 The SEER data are not included in this repository because of the SEER data use agreement. Access can be requested from the National Cancer Institute (https://seer.cancer.gov/data/), and case listings are extracted with SEER*Stat from the SEER Research Data (12 registries, November 2025 submission).
 
-### Cohort
-
 The following restrictions are applied in SEER*Stat:
 
 - Site recode ICD-O-3/WHO 2008: colon excluding rectum
