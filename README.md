@@ -1,4 +1,4 @@
-# discrete-time-competing-risks
+# A Partial-Likelihood Approach for the Analysis of Discrete Time Competing Risks Data
 
 Code for the manuscript **"A partial-likelihood approach for the analysis of discrete time competing risks data"** (Seohyun Lee, Minjung Lee, Sangbum Choi).
 
