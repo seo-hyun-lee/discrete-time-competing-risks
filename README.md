@@ -20,7 +20,7 @@ The manuscript proposes a Poisson-approximation-based partial likelihood for cau
 |---|---|
 | `code/R` | `admm_tf_long.R`: person-period data utilities and the original ADMM implementation. `admm_bcd_exact.R`: final ADMM solver (exact block coordinate descent primal step) and the regularization path function `tf_path_bcd()`. |
 | `code/sim_4.1_PL` | Comparison of the proposed estimator, Lee et al. (2018) and Meir and Gorfine (2025) under two data-generating processes. Reports bias, average and empirical standard errors, and coverage. Also includes the cumulative incidence prediction simulation. |
-| `code/sim_4.2_TF` | Baseline hazard estimation with trend filtering under smooth, step and abrupt shapes, for the log and logit links. |
+| `code/sim_4.2_TF` | Baseline hazard estimation with trend filtering under smooth and step shapes, for the log and logit links. |
 | `code/seer` | SEER application: model fits, baseline hazard and cumulative incidence figures, and bootstrap confidence intervals. |
 
 ## Requirements
